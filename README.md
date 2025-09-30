@@ -28,3 +28,9 @@ JavaScript
 1. Clone this repository  
    ```bash
    git clone https://github.com/anabiakhan/Tic-Tae-Toe.git
+
+📸 Live Demo
+
+🔗 Click here to play
+   
+   git clone https://github.com/anabiakhan/Tic-Tae-Toe.git
